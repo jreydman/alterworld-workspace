@@ -140,6 +140,8 @@
   },
   "active": "48854e9d5151211b",
   "lastOpenFiles": [
+    "architecture/prisma-package.md",
+    "architecture/tsconfig-package.md",
     "architecture/prisma.md",
     "architecture/types-package.md",
     "assets/documents/submodules.md",

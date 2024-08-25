@@ -1,3 +1,5 @@
 alterworld-workspace-types [zod]
 
 alterworld-workspace-prisma [prisma]
+
+alterworld-workspace-tsconfig [typescript]
