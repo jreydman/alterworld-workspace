@@ -7,3 +7,6 @@
 [submodule "packages/types"]
 	path = packages/types
 	url = https://github.com/jreydman/alterworld-workspace-types.git
+[submodule "packages/prisma"]
+	path = packages/prisma
+	url = https://github.com/jreydman/alterworld-workspace-prisma.git
