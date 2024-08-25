@@ -1,3 +1,3 @@
-nextjs-frontend-app
+nextjs-frontend-app [nextjs]
 
-nestjs-backend-app
+nestjs-backend-app [nestjs]
