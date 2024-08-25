@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "222b27a45bd747b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "08d25105c148ca98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48854e9d5151211b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "940b203b4202da3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1fed2d8a4c72c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a331cce298463e7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97e8763c5b647808",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "debb8d519f31f3e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5822e0cf9c7092d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb0b9f5f079c7aba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71e2c7a8f57c7d80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c5d308bdfd9db6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2fb16c36500e57d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc4cae23790ef575",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "48854e9d5151211b",
+  "lastOpenFiles": [
+    "assets/documents/submodules.md",
+    "assets/documents/subtree.md",
+    "assets/documents",
+    "architecture/backend-app.md",
+    "architecture/backend-app",
+    "architecture/frontend-app",
+    "Документация.md",
+    "assets/Ассеты.md",
+    "architecture/Архитектура проекта.md",
+    "architecture",
+    "ACKNOWLEDGMENTS.md",
+    "AUTHORS.md",
+    "CONTRIBUTORS.md",
+    "SUPPORT.md",
+    "tmp",
+    "temporal",
+    "CHANGELOG.md",
+    "assets/tables",
+    "assets/sounds",
+    "assets/videos",
+    "assets/pictures",
+    "assets/diagrams/README.md"
+  ]
+}

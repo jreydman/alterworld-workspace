@@ -1,0 +1,6 @@
+[submodule "services/nestjs-backend-app"]
+	path = services/nestjs-backend-app
+	url = https://github.com/jreydman/alterworld-workspace-backend-app.git
+[submodule "services/nextjs-frontend-app"]
+	path = services/nextjs-frontend-app
+	url = https://github.com/jreydman/alterworld-workspace-frontend-app.git
