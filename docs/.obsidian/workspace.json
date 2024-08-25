@@ -140,6 +140,7 @@
   },
   "active": "48854e9d5151211b",
   "lastOpenFiles": [
+    "architecture/eslint-package.md",
     "architecture/prisma-package.md",
     "architecture/tsconfig-package.md",
     "architecture/prisma.md",

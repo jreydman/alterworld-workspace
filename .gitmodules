@@ -13,3 +13,6 @@
 [submodule "packages/tsconfig"]
 	path = packages/tsconfig
 	url = https://github.com/jreydman/alterworld-workspace-tsconfig.git
+[submodule "packages/eslint"]
+	path = packages/eslint
+	url = https://github.com/jreydman/alterworld-workspace-eslint.git
