@@ -4,3 +4,6 @@
 [submodule "services/nextjs-frontend-app"]
 	path = services/nextjs-frontend-app
 	url = https://github.com/jreydman/alterworld-workspace-frontend-app.git
+[submodule "packages/types"]
+	path = packages/types
+	url = https://github.com/jreydman/alterworld-workspace-types.git
